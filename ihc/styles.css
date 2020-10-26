@@ -1,0 +1,66 @@
+h1{
+    position: fixed;
+    top: 5px;
+    left: 10px;
+    color: rgb(244, 248, 244);
+   
+}
+body{
+    background:rgb(236, 229, 229);}
+.a{
+
+
+  object-fit: cover;
+  vertical-align: top;
+  width: min-content;
+
+}
+
+.c{
+  color: blueviolet;
+}
+.menu{
+  background: rgb(91, 184, 201);
+  height: 80px;
+  
+  text-align: right;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+ 
+
+}
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin-right: 30px;
+  line-height: 80px;
+}
+h2{
+  position: fixed;
+    top: 100px;
+    left: 500px;
+    color: rgb(13, 14, 13);
+    font-size: 400%;
+}
+.parrafo{
+  color: black;
+  position: fixed;
+    top: 300px;
+    left: 100px;
+    right: 100px;
+    font-size: 150%;
+}
+.imagen{
+  position: fixed;
+    top: 450px;
+    left: 500px;
+    
+}
+.f{
+  position: fixed;
+    top: 100px;
+    left: 500px;
+    font-size: 150%;
+}
